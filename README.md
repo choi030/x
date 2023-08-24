@@ -10,3 +10,6 @@
 My cat is very qrumpy - 콘텐츠, 요소의 내용으로 구성된다
 <p>My cat is very qrumpy</p> - 여는 태그/닫는태그/콘텐츠로 이루어지는 것
 
+
+김신영 : 수고하셨습니다.<br>
+
